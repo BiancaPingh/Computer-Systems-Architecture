@@ -20,11 +20,4 @@ This repository contains projects and assignments developed for the **Computer S
 - Basic arithmetic units  
 - Introduction to assembly language  
 
-## Getting Started
-
-To explore the projects:
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/BiancaPingh/Computer-Systems-Architecture.git
 
